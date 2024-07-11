@@ -7,3 +7,7 @@ EarthMindQ lab's project for the Womanium program.
 Team Member 1: <br/>
 Full Name: Mikael Aziz <br/>
 Womanium Program Enrollment ID: WQ24-i1bI0KrCQcPIoEy <br/>
+
+Team Member 2: <br/>
+Full Name: Mariam Khaled Abdo Ahmed<br/>
+Womanium Program Enrollment ID: WQ24-fC5YpFE4PRlgp34 <br/>
